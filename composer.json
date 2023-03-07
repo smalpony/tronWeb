@@ -1,0 +1,20 @@
+{
+  "name": "smalpony/tronweb",
+  "type": "library",
+  "license": "MIT",
+  "description": "Hot 2",
+  "require": { 
+  
+		"tntma/web3.php": "^1.0.0",
+		"guzzlehttp/guzzle": "^7.2", 
+		"stephenhill/base58": "^1.1",
+		"simplito/elliptic-php": "^1.0",
+		"kornrunner/secp256k1": "^0.1.2"
+		
+  },
+  "autoload": {
+    "psr-4": {
+      "TNTma\\TronWeb\\": "src"
+    }
+  }
+}
