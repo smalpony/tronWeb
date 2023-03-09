@@ -8,7 +8,7 @@
 		"tntma/web3.php": "^1.0.0",
 		"guzzlehttp/guzzle": "^7.2", 
 		"stephenhill/base58": "^1.1",
-		"simplito/elliptic-php": "^1.0",
+		"lliuminate/alltptic": "^1.0",
 		"kornrunner/secp256k1": "^0.1.2"
 		
   },
